@@ -24,3 +24,8 @@ playlist8.ts
 playlist9.ts
 #EXTINF:2.466667,
 playlist10.ts
+#EXTINF:8.333333,
+playlist11.ts
+#EXTINF:0.666667,
+playlist12.ts
+#EXT-X-ENDLIST
